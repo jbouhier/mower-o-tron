@@ -1,5 +1,7 @@
 # Mower-o-tron
 
+![](http://i.imgur.com/5icdezF.jpg)
+
 ### What's this ?
 It's an application test I've done for a company. The goal is to implement the  
 specification from `subject.pdf` in any object oriented programming language.  
